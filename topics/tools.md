@@ -30,12 +30,15 @@
 |[Guidepup](https://github.com/guidepup/guidepup)|Screen reader driver for test automation.|
 |[Headings Map](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/)|The extension generates a document-map or index of any web document structured with headings and/or with sections in HTML 5. It shows the headings structure, the errors in the structure (ie. incorrect levels), and it works as HTML5 Outliner too.
 |[HTML5 Acessibility](http://www.html5accessibility.com/)|Get the current accessibility support status of HTML5 features across major browsers
+|[Lecteur PDF accessible (RGAA Checker)](https://rgaa-checker.com/outils/lecteur-pdf-accessible)|Free in-browser accessible PDF reader with reflowable text, dyslexia-friendly typography profiles, OCR for scanned documents, dual view and annotations. FR.
 |[RatedWithAI](https://ratedwithai.com/)| AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance, powered by axe-core. Free instant audit with actionable fix recommendations.
+|[RGAA Checker Companion](https://chromewebstore.google.com/detail/ignlacbeeoohadiojeajmnnghbpokllj)|Chrome/Firefox extension for manual accessibility audits: 20 visual inspection tools, a 106-criteria RGAA grid overlay and finding capture. FR.
 |[This is WCAG](https://thisiswcag.com/)| A guide to know better the guidelines of WCAG |
 | [Semantic A11Y](https://www.npmjs.com/package/semantica11y) | A JavaScript analysis engine for checking webpages (HTML) for non-semantic HTML elements with ARIA using intelligent suggestions for semantic improvements. |
 |[Site Unseen](https://chrome.google.com/webstore/detail/site-unseen/aflfgnngnnhdoffmmpmakkdflfedldlh?hl=en)|A screen reader emulator that enables you to experience the web from the perspective of a person who is blind |
 |[Stylelint a11y](https://github.com/YozhikM/stylelint-a11y)|Stylelint a11y|
 |[Tactual](https://github.com/tactual-dev/tactual)|Screen-reader navigation cost analyzer. Models the real effort for assistive technology (AT) users to find, reach, and operate interactive web content under 5 assistive-technology profiles. CLI, MCP server, and library API.
+|[Transcription Vidéo (RGAA Checker)](https://rgaa-checker.com/outils/transcription-video)|Free AI subtitle generator for uploaded audio/video: produces VTT, SRT and TXT captions following French RGAA and Arcom subtitling guidelines. FR.
 |[Virtual Screen Reader](https://github.com/guidepup/virtual-screen-reader)|Virtual screen reader driver for unit test automation.|
 |[Web Accessibility Toolbar (WAT)](https://www.paciellogroup.com/resources/wat/)|The Web Accessibility Toolbar (WAT) has been developed to aid manual examination of web pages for a variety of aspects of accessibility.
 |[AltTextLab](https://www.alttextlab.com/)|AI-powered alt text generator for images.
@@ -92,10 +95,12 @@
 | --- | --- |
 |[a11y-contrast](https://github.com/darekkay/a11y-contrast)| A CLI utility to calculate/verify accessible magic numbers for a color palette
 |[Accessible Colors](https://accessible-colors.com/)|
+|[Calculateur de Contraste (RGAA Checker)](https://rgaa-checker.com/outils/calculateur-contraste)|Free contrast ratio calculator checking text/background pairs against WCAG 2.1 AA/AAA thresholds, with suggestions for accessible colour adjustments. FR.
 |[Check My Colours](http://www.checkmycolours.com/)|Validator of Color Contrast
 |[Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5) |
 |[Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)| To test the contrast of your text against its background
 |[Color Oracle](http://colororacle.org/)| App (Mac/Win/Linux) for check colours
+|[Simulateur de Daltonisme (RGAA Checker)](https://rgaa-checker.com/outils/simulateur-daltonisme)|Free browser tool that simulates how a page or image is perceived under different types of colour blindness (protanopia, deuteranopia, tritanopia, achromatopsia). FR.
 |[Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en)|Contrast finder that suggests a valid color range
 |[WCAG Color Contrast Checker](https://www.davidmello.com/tools/color-contrast-checker)|Checks foreground and background color pairs against WCAG 2.1 AA and AAA thresholds, with colorblindness simulation for four deficiency types, accessible color variant suggestions, and a shareable URL
 |[Who Can use](https://whocanuse.com/)||
@@ -109,6 +114,7 @@
 |[ExcellentWebCheck](https://excellentwebcheck.com/website-accessibility-checker)|Mobile, Tablet and Desktop Accessibility Checker & Monitor|
 |[Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)|Google Chrome tool for web page audits
 |[PageGuard](https://pageguard.qiudeqiu.workers.dev)|Free website scanner with WCAG 2.1 AA accessibility audit. Checks ARIA labels, color contrast, keyboard navigation, heading structure, image alt text, and more. No signup required, results in ~30 seconds.|
+|[RGAA Checker](https://rgaa-checker.com)|Web accessibility scanner aligned with the French RGAA 4.1 standard and WCAG. Combines static analysis, dynamic testing (axe-core) and AI image analysis, generates a conformity declaration, and flags the criteria that require manual verification. FR.|
 |[Sim Daltonism](https://michelf.ca/projects/sim-daltonism/)|A color blindness simulator for Mac and iOS
 |[levelaccess](https://www.levelaccess.com/solutions/accessibility-audit-and-testing/)|Accessibility Auditing|
 |[tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)| Simple validator using bookmarklet or Javascript plugin
